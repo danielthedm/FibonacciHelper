@@ -1,10 +1,9 @@
-# FibonacciHelper
-Requirements:
+# Requirements:
 -Ruby installed
 
 To use please do the following commands:
 
-#Navigate to root directory
+# Navigate to root directory
 1) gem build fibonaccihelper.gemspec
 
 2) gem install ./fibonaccihelper-0.0.0.gem
